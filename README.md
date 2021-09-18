@@ -1,6 +1,6 @@
 # WhatsApp UI
 
-![WhatsApp Clone](https://imgur.com/a/1u7wTkI)
+![WhatsApp Clone](https://pasteboard.co/XUsH7IcnFICB.png)
 This project is a part of a Flutter UI Series where I'll be cloning renowned apps and designs from dribble using Flutter.
 ## Explaination
 
