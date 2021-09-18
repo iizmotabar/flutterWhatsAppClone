@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'screens/call_screen.dart';
 import 'screens/chat_screen.dart';
 import 'screens/status_screen.dart';
-import 'widgets/single_chat_widget.dart';
 
 void main() {
   runApp(const MyApp());
@@ -34,7 +33,7 @@ class MyHomePage extends StatelessWidget {
     return DefaultTabController(
       length: 4,
       child: Scaffold(
-        floatingActionButton: Container(
+        floatingActionButton: SizedBox(
           width: 50,
           height: 50,
           child: FloatingActionButton(

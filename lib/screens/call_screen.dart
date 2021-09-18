@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:whatsapp_ui/widgets/single_call_widget.dart';
-import 'package:whatsapp_ui/widgets/single_chat_widget.dart';
 
 class CallTab extends StatelessWidget {
   const CallTab({Key? key}) : super(key: key);
